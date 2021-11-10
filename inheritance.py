@@ -1,4 +1,4 @@
-lass Person:
+class Person:
     def greet(self):
         print("Hello I am ",self.name)
 
