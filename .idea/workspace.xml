@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ff83ac3-6b00-48cb-b7f2-7bbb3ae80d27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum_nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adjacency_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/.idea/WhatsappBOT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/DB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/Longest_increasing_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/Python_Selenium/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/Python_Selenium/Webdriver_Locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/Python_Selenium/Webdriver_locators_Test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/Python_Selenium/content.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/Python_Selenium/mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/Python_Selenium/read_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/Python_Selenium/sample_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/Python_Selenium/test_pytest_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/Python_Selenium/yiedl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/pokemon/Django_project/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/pokemon/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/pokemon/move.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/pokemon/mydatabase.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/pokemon/pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/pokemon/sqlite_project_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/pokemon/website.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/sample_db.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classBased.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_based_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_based_grpahs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dartaframe_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_based_adjacency_list_approach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/left_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_left_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repr_and_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium/.idea/selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stocks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/super.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Project_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Project_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/WhatsappBot.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/WhatsappBot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot/whatsappBot/WhatsappBOT/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="22SRCK70sZuArapQqgcT0e1pUUk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.Sum_nodes">
+    <configuration name="Sum_nodes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Project_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sum_nodes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="left_view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Project_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/left_view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list_int" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Project_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_int.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_left_view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Project_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_left_view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stocks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Project_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stocks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Sum_nodes" />
+        <item itemvalue="Python.stocks" />
+        <item itemvalue="Python.new_left_view" />
+        <item itemvalue="Python.list_int" />
+        <item itemvalue="Python.left_view" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ff83ac3-6b00-48cb-b7f2-7bbb3ae80d27" name="Changes" comment="" />
+      <created>1639828874267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639828874267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
